@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lorddeezus95
 - 👀 I’m interested in machine learning and health informatics
-- 🌱 I’m currently learning machine learning 
+- 🌱 I’m currently picking up machine learning and data analytics tools
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 You can reach me via E-mail: dubem.ngini95@gmail.com
 - 😀 Hey I'm on discord!: @lorddeezus95
